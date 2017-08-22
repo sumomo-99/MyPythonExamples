@@ -5,3 +5,4 @@ Python勉強用のスクリプト集。
 * for_enumerate.py - `enumerate`関数を利用した`for`文のサンプルです。リストから値を取得するときに`enumerate`を利用してインデックス番号を付与します。
 * getPublicIp.py - スクリプトを実行した端末のパブリックIPアドレスを取得します。`requests.get()`メソッドを利用します。
 * omikuji.py - `random.choice()`のサンプルです。ランダムにおみくじを表示します。
+* screenClear.py - スクリーン(コンソール画面)をクリアするサンプルです。`subprocess.run()`でclearコマンドを実行します。
